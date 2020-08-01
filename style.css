@@ -62,3 +62,19 @@ h3{
 .status.red{
     background: red;
 }
+
+.highlight{
+    background-color: #FD951F08
+}
+
+.cards, .dropzone{
+    transition: 400ms;
+}
+
+.is-dragging{
+    cursor: move;
+    opacity: 0.3;
+}
+.over{
+    background-color: #4cd13738;
+}
